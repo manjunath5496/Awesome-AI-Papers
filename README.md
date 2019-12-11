@@ -1,14 +1,14 @@
 
 <ul>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(1).pdf" style="text-decoration:none;">(Machine) Learning to Do More with Less</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(1).pdf" style="text-decoration:none;">Leibniz: Explanation of Binary Arithmetic (1703)</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(2).pdf" style="text-decoration:none;">A Guide to Constraining Effective Field Theories with Machine Learning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(2).pdf" style="text-decoration:none;">The Mathematical Analysis of Logic</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(3).pdf" style="text-decoration:none;">Adversarial learning to eliminate systematic errors: a case study in High Energy Physics</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(4).pdf" style="text-decoration:none;">War and Peace</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(3).pdf" style="text-decoration:none;">On formally undecidable propositions of Principia Mathematica and related systems I</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(4).pdf" style="text-decoration:none;">On computable numbers, with an application to the Entscheidungsproblem</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(5).pdf" style="text-decoration:none;">Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(5).pdf" style="text-decoration:none;">A Logical Calculus of the Ideas Immanent in Nervous Activity</a></b></li>  
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(6).pdf" style="text-decoration:none;">Classification without labels: Learning from mixed samples in high energy physics</a></b></li>  
                                              
